@@ -17,7 +17,7 @@ För Väl Godkänt ska du utöver kriterierna för godkänt också uppfylla föl
  
 Du ska i din text göra källhänvisningar till alla använda artiklar. Du får naturligtvis använda fler tecken för att få plats med allt.
 
-## Resurserr
+## Resurser
 
 * [The Great Divide](https://css-tricks.com/the-great-divide/)
 * [Forget the hype](https://medium.com/mop-developers/forget-the-hype-ai-isnt-taking-your-coding-job-9047f2d16171)
