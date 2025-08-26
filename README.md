@@ -1,6 +1,6 @@
 # Introduktion till IT-Branschen : Indivduell Examination
 
-Diskutera och reflektera kring vad en frontendutvecklare är och hur en frontendutvecklare arbetar i sin yrkesvardag.  
+I denna individuella examination skall du skriva en kortare rapport om de lärdomar du förskaffat dig i kursen. I din rapport förväntas du diskutera och reflektera kring vad en frontendutvecklare är och hur en frontendutvecklare arbetar i sin yrkesvardag.  
 
 ## För Godkänt
 
